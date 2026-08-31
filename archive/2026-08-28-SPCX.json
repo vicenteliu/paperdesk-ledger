@@ -1,0 +1,8 @@
+{
+ "id": "2026-08-28-SPCX",
+ "ticker": "SPCX",
+ "run_date": "2026-08-28",
+ "status": "no-prediction",
+ "reason": "cost_run.py rc=1: Provider timed out after 9956ms (504) during Sentiment Analyst",
+ "note": "排期表里有这一档,但夜跑没有产出预测。记在这里是为了让「它多经常跑挂」也成为公开数据 —— 只有成功的夜晚有记录就是选择性披露。"
+}
