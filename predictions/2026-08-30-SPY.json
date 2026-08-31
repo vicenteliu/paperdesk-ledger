@@ -1,0 +1,58 @@
+{
+ "id": "2026-08-30-SPY",
+ "ticker": "SPY",
+ "run_date": "2026-08-30",
+ "data_through": "2026-08-28",
+ "data_through_derived": true,
+ "data_through_note": "由 yfinance 反查 run_date 当天或之前最后一个交易日;desk 不报自己的数据截止日,所以这是派生值,不是它一定用了这根 K 的证明",
+ "run_date_was_market_open": false,
+ "rating": "Hold",
+ "verdict": {
+  "rating": "Hold",
+  "why_en": "The framework landed on Hold. Structural strengths — $400B in assets, bullish moving-average alignment — are offset by a compressed risk premium at 25.92 times earnings and a declining MACD histogram. Neither side dominates.",
+  "why_zh": "研报框架给出持有结论。4000亿资产规模和均线多头排列的结构性优势，被25.92倍市盈率压缩的风险溢价和MACD动能衰减所抵消——多空双方均不占优。"
+ },
+ "stances": [
+  {
+   "analyst": "Fundamentals",
+   "analyst_zh": "基本面",
+   "lean": "Neutral",
+   "en": "P/E of 25.92 leaves slim equity risk premium over the 4.67% 10-year yield.",
+   "zh": "25.92倍市盈率相对4.67%的国债收益率几乎没有溢价空间。"
+  },
+  {
+   "analyst": "Sentiment",
+   "analyst_zh": "情绪",
+   "lean": "Bearish",
+   "en": "StockTwits shows a 10:1 bearish skew; Reddit is silent on SPY.",
+   "zh": "StockTwits多空比达1比10严重偏空，Reddit对SPY沉默。"
+  },
+  {
+   "analyst": "News",
+   "analyst_zh": "新闻",
+   "lean": "Neutral",
+   "en": "Cheaper rival SPYM drew $57B inflows, but SPY's liquidity moat is intact.",
+   "zh": "低价竞品SPYM流入570亿，但SPY流动性护城河未破。"
+  },
+  {
+   "analyst": "Technicals",
+   "analyst_zh": "技术面",
+   "lean": "Bullish",
+   "en": "Price holds above all key MAs, but MACD histogram is negative at -0.96.",
+   "zh": "价格站上所有均线，但MACD柱状图转负-0.96。"
+  }
+ ],
+ "split": {
+  "bull_en": "Price holds above all key MAs, but MACD histogram is negative at -0.96.",
+  "bull_zh": "价格站上所有均线，但MACD柱状图转负-0.96。",
+  "bear_en": "StockTwits shows a 10:1 bearish skew; Reddit is silent on SPY.",
+  "bear_zh": "StockTwits多空比达1比10严重偏空，Reddit对SPY沉默。",
+  "pivot_en": "The bull cites SPY's quadruple moving-average alignment and $400B liquidity moat. The bear counters that a 25.92 P/E against a 4.67% Treasury yield leaves no risk premium, and the declining MACD histogram warns of fading momentum.",
+  "pivot_zh": "看多方指出均线多头排列和4000亿流动性护城河；看空方反驳称25.92倍市盈率对4.67%收益率几乎没有风险溢价，MACD柱状图转负显示动能衰减。"
+ },
+ "status": "predicted",
+ "recorded_at": null,
+ "recorded_in": "hydra (private)",
+ "preregistered": null,
+ "preregistration_note": "没有提交记录,无法判断"
+}
