@@ -1,0 +1,58 @@
+{
+ "id": "2026-08-09-TSLA",
+ "ticker": "TSLA",
+ "run_date": "2026-08-09",
+ "data_through": "2026-08-07",
+ "data_through_derived": true,
+ "data_through_note": "由 yfinance 反查 run_date 当天或之前最后一个交易日;desk 不报自己的数据截止日,所以这是派生值,不是它一定用了这根 K 的证明",
+ "run_date_was_market_open": false,
+ "rating": "Underweight",
+ "verdict": {
+  "rating": "Underweight",
+  "why_en": "The framework landed on Underweight: the measurable deterioration in Tesla's core auto business — a P/E of 304, negative free cash flow, and shrinking market share — outweighs speculative AI narratives with no revenue timeline.",
+  "why_zh": "该框架给出减持评级：核心汽车业务可衡量的恶化——市盈率304倍、自由现金流为负、市场份额萎缩——压过了缺乏收入时间表的投机性AI叙事。"
+ },
+ "stances": [
+  {
+   "analyst": "Fundamentals",
+   "analyst_zh": "基本面",
+   "lean": "Bearish",
+   "en": "P/E of 304 with margins halved and FCF turning negative.",
+   "zh": "市盈率304倍，利润率腰斩，自由现金流转负。"
+  },
+  {
+   "analyst": "Sentiment",
+   "analyst_zh": "情绪",
+   "lean": "Neutral",
+   "en": "Mildly bullish score of 6 out of 10, nothing decisive.",
+   "zh": "情绪得分6/10，温和看多但不够明确。"
+  },
+  {
+   "analyst": "News",
+   "analyst_zh": "新闻",
+   "lean": "Neutral",
+   "en": "Terafab breaks ground, but UK sales drop and Rivian looms.",
+   "zh": "Terafab动工，但英国销量下滑，Rivian步步紧逼。"
+  },
+  {
+   "analyst": "Technicals",
+   "analyst_zh": "技术面",
+   "lean": "Bearish",
+   "en": "Below both SMAs, RSI neutral — no entry signal yet.",
+   "zh": "股价低于两条均线，RSI中性，无入场信号。"
+  }
+ ],
+ "split": {
+  "bull_en": "",
+  "bull_zh": "",
+  "bear_en": "P/E of 304 with margins halved and FCF turning negative.",
+  "bear_zh": "市盈率304倍，利润率腰斩，自由现金流转负。",
+  "pivot_en": "The bull sees Terafab and Optimus as Tesla transforming into an AI-robotics giant. The bear counters those are unproven science projects while the core auto business is deteriorating — negative FCF, halved margins, and market share lost to Chinese rivals.",
+  "pivot_zh": "多方认为Terafab和Optimus让特斯拉转型为AI机器人巨头。空方反驳称这些是未经验证的科学项目，而核心汽车业务正在恶化——自由现金流为负、利润率腰斩、市场份额被中国对手蚕食。"
+ },
+ "status": "predicted",
+ "recorded_at": "2026-08-16T03:36:52-07:00",
+ "recorded_in": "hydra (private)",
+ "preregistered": false,
+ "preregistration_note": "记录于 2026-08-16,晚于 run_date 2026-08-09。外部读者无法排除它是在结果出来之后写下的 —— **这条不算预注册**。"
+}

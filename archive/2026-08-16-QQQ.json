@@ -1,0 +1,58 @@
+{
+ "id": "2026-08-16-QQQ",
+ "ticker": "QQQ",
+ "run_date": "2026-08-16",
+ "data_through": "2026-08-14",
+ "data_through_derived": true,
+ "data_through_note": "由 yfinance 反查 run_date 当天或之前最后一个交易日;desk 不报自己的数据截止日,所以这是派生值,不是它一定用了这根 K 的证明",
+ "run_date_was_market_open": false,
+ "rating": "Hold",
+ "verdict": {
+  "rating": "Hold",
+  "why_en": "The desk landed on Hold: the bull owns the long term, the bear owns the next quarters, and neither case defeats the other at a 31x P/E with yields at 4.63%.",
+  "why_zh": "框架综合多空后给出持有结论:多头占长期、空头占近期,在约31倍市盈率与4.63%收益率下,双方都无法压倒对方。"
+ },
+ "stances": [
+  {
+   "analyst": "Fundamentals",
+   "analyst_zh": "基本面",
+   "lean": "Bearish",
+   "en": "No balance sheet to read — just an elevated 31x P/E on a tech-heavy ETF.",
+   "zh": "无财务报表可看,估值31倍市盈率偏高。"
+  },
+  {
+   "analyst": "Sentiment",
+   "analyst_zh": "情绪",
+   "lean": "Neutral",
+   "en": "Sentiment is a flat 5 of 10 — retail bearish, headlines mixed.",
+   "zh": "情绪5/10,零售偏空,新闻好坏参半。"
+  },
+  {
+   "analyst": "News",
+   "analyst_zh": "新闻",
+   "lean": "Bearish",
+   "en": "Burry doubles his QQQ short while 2026 Fed cuts stay priced out.",
+   "zh": "Burry加码做空QQQ,2026年降息预期渺茫。"
+  },
+  {
+   "analyst": "Technicals",
+   "analyst_zh": "技术面",
+   "lean": "Bullish",
+   "en": "The 50-day average holds above the 200-day, but the tape report never ran.",
+   "zh": "50日均线仍在上方,但技术报告数据缺失。"
+  }
+ ],
+ "split": {
+  "bull_en": "The 50-day average holds above the 200-day, but the tape report never ran.",
+  "bull_zh": "50日均线仍在上方,但技术报告数据缺失。",
+  "bear_en": "No balance sheet to read — just an elevated 31x P/E on a tech-heavy ETF.",
+  "bear_zh": "无财务报表可看,估值31倍市盈率偏高。",
+  "pivot_en": "Both sides agree the number to fight over is QQQ's 31x P/E. The bull calls it a justified premium for 15-25% cash-flow growth; the bear calls it a trap when 10-year yields sit at 4.63% and 2026 rate cuts are priced out — 2022's 33% de-rating is the precedent. One owns the long term, the other the next few quarters.",
+  "pivot_zh": "双方都聚焦在约31倍市盈率:多头认为是15-25%盈利增长应得的溢价,空头则说在4.63%收益率、2026年不降息的环境下这是陷阱,并援引2022年33%的回撤为例。多空各占长期与短期。"
+ },
+ "status": "predicted",
+ "recorded_at": "2026-08-18T18:05:15-07:00",
+ "recorded_in": "hydra (private)",
+ "preregistered": false,
+ "preregistration_note": "记录于 2026-08-18,晚于 run_date 2026-08-16。外部读者无法排除它是在结果出来之后写下的 —— **这条不算预注册**。"
+}

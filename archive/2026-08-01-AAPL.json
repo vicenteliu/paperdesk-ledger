@@ -1,0 +1,57 @@
+{
+ "id": "2026-08-01-AAPL",
+ "ticker": "AAPL",
+ "run_date": "2026-08-01",
+ "data_through": "2026-07-31",
+ "data_through_derived": true,
+ "data_through_note": "由 yfinance 反查 run_date 当天或之前最后一个交易日;desk 不报自己的数据截止日,所以这是派生值,不是它一定用了这根 K 的证明",
+ "run_date_was_market_open": false,
+ "rating": "Hold",
+ "verdict": {
+  "rating": "Hold",
+  "why_en": "The desk landed on Hold — the correction to $308 partially prices in the bear risks, but the valuation remains full enough that an aggressive buy isn't warranted until Services growth re-accelerates or AI catalysts materialize.",
+  "why_zh": "该框架给出持有评级——回调至308美元已部分反映空头风险，但估值仍偏高，需等待服务增长加速或AI催化剂明确。"
+ },
+ "stances": [
+  {
+   "analyst": "Fundamentals",
+   "analyst_zh": "基本面",
+   "lean": "Bullish",
+   "en": "Revenue up 19% and net income up 38% with $107 billion in free cash flow.",
+   "zh": "营收增长19%，净利润飙升38%，自由现金流1070亿美元。"
+  },
+  {
+   "analyst": "Sentiment",
+   "analyst_zh": "情绪",
+   "lean": "Neutral",
+   "en": "News and retail sentiment are evenly split at a score of 5 out of 10.",
+   "zh": "新闻和散户情绪五五开，综合评分5分。"
+  },
+  {
+   "analyst": "News",
+   "analyst_zh": "新闻",
+   "lean": "Neutral",
+   "en": "MacBook Neo demand is strong, but Services growth slowed and AI costs are rising.",
+   "zh": "MacBook Neo需求强劲，但服务增长放缓和AI成本上升。"
+  },
+  {
+   "analyst": "Technicals",
+   "analyst_zh": "技术面",
+   "lean": "Bearish",
+   "en": "MACD divergence and RSI at 43 signal weakening momentum near the 50 SMA.",
+   "zh": "MACD背离、RSI低于50，动量减弱。"
+  }
+ ],
+ "split": {
+  "bull_en": "Revenue up 19% and net income up 38% with $107 billion in free cash flow.",
+  "bull_zh": "营收增长19%，净利润飙升38%，自由现金流1070亿美元。",
+  "bear_en": "MACD divergence and RSI at 43 signal weakening momentum near the 50 SMA.",
+  "bear_zh": "MACD背离、RSI低于50，动量减弱。",
+  "pivot_en": "The bull argues the pullback to $308 is a buying opportunity, citing strong fundamentals and oversold technicals near the 50 SMA. The bear counters that Services growth decelerated from 24% to 16% and 35x earnings can't hold in a 4.2% rate world.",
+  "pivot_zh": "多头认为回调至308美元是买入机会，基本面强劲且50日均线附近技术面超卖。空头反驳：服务增长从24%放缓至16%，4.2%利率下35倍市盈率难以维持。"
+ },
+ "status": "predicted",
+ "recorded_at": "2026-08-01T23:30:27-07:00",
+ "recorded_in": "hydra (private)",
+ "preregistered": true
+}

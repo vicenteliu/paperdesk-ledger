@@ -1,0 +1,58 @@
+{
+ "id": "2026-08-25-TSLA",
+ "ticker": "TSLA",
+ "run_date": "2026-08-25",
+ "data_through": "2026-08-25",
+ "data_through_derived": true,
+ "data_through_note": "由 yfinance 反查 run_date 当天或之前最后一个交易日;desk 不报自己的数据截止日,所以这是派生值,不是它一定用了这根 K 的证明",
+ "run_date_was_market_open": true,
+ "rating": "Underweight",
+ "verdict": {
+  "rating": "Underweight",
+  "why_en": "The framework landed on Underweight. Margin deterioration is a measurable current reality, while robotaxi revenue remains years away. Energy storage growth and a fortress balance sheet provide downside protection but don't justify the multiple.",
+  "why_zh": "研究框架给出低配结论：利润率恶化是已发生的结构性问题，自动驾驶收入仍需数年才能兑现。储能增长和稳健的资产负债表提供下行保护，但不足以支撑当前估值倍数。"
+ },
+ "stances": [
+  {
+   "analyst": "Fundamentals",
+   "analyst_zh": "基本面",
+   "lean": "Bearish",
+   "en": "324 P/E with 1.4% margins and decelerating growth.",
+   "zh": "324倍市盈率对应1.4%利润率，增速也在放缓。"
+  },
+  {
+   "analyst": "Sentiment",
+   "analyst_zh": "情绪",
+   "lean": "Neutral",
+   "en": "Mixed news flow scored a neutral 5 out of 10.",
+   "zh": "新闻面混杂，情绪评分中性，满分10分得5分。"
+  },
+  {
+   "analyst": "News",
+   "analyst_zh": "新闻",
+   "lean": "Neutral",
+   "en": "Robotaxi wins offset Cybertruck price hikes and China recalls.",
+   "zh": "机器人出租车利好被Cybertruck涨价和中国召回抵消。"
+  },
+  {
+   "analyst": "Technicals",
+   "analyst_zh": "技术面",
+   "lean": "Neutral",
+   "en": "Stock sits below both its 50 and 200 day moving averages.",
+   "zh": "股价在50日和200日均线下方运行。"
+  }
+ ],
+ "split": {
+  "bull_en": "",
+  "bull_zh": "",
+  "bear_en": "324 P/E with 1.4% margins and decelerating growth.",
+  "bear_zh": "324倍市盈率对应1.4%利润率，增速也在放缓。",
+  "pivot_en": "The bull argues robotaxis and energy storage justify the premium valuation. The bear counters that margin collapse from 17.2% to 1.4% is structural, not cyclical, and a 324 P/E demands proof, not promises.",
+  "pivot_zh": "多头认为机器人出租车和储能业务支撑高估值；空头反驳称利润率从17.2%跌至1.4%是结构性问题而非周期波动，324倍市盈率需要证明而非承诺。"
+ },
+ "status": "predicted",
+ "recorded_at": "2026-08-30T04:04:32-07:00",
+ "recorded_in": "hydra (private)",
+ "preregistered": false,
+ "preregistration_note": "记录于 2026-08-30,晚于 run_date 2026-08-25。外部读者无法排除它是在结果出来之后写下的 —— **这条不算预注册**。"
+}

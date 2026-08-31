@@ -1,0 +1,57 @@
+{
+ "id": "2026-08-23-AAPL",
+ "ticker": "AAPL",
+ "run_date": "2026-08-23",
+ "data_through": "2026-08-21",
+ "data_through_derived": true,
+ "data_through_note": "由 yfinance 反查 run_date 当天或之前最后一个交易日;desk 不报自己的数据截止日,所以这是派生值,不是它一定用了这根 K 的证明",
+ "run_date_was_market_open": false,
+ "rating": "Hold",
+ "verdict": {
+  "rating": "Hold",
+  "why_en": "The framework landed on Hold: Apple's fortress cash flow and buyback floor offset a 35x P/E on decelerating services growth and unproven AI execution. Neither side overwhelms — maintain weight, wait for catalysts.",
+  "why_zh": "该框架给出持有评级：苹果的现金流护城河和回购支撑，被35倍PE、服务增长放缓及AI执行未经验证所抵消。双方势均力敌，维持现有权重，等待催化剂。"
+ },
+ "stances": [
+  {
+   "analyst": "Fundamentals",
+   "analyst_zh": "基本面",
+   "lean": "Bullish",
+   "en": "$128B net income, $108B free cash flow, 48.7% gross margins.",
+   "zh": "1280亿净利润，1080亿自由现金流，毛利率48.7%。"
+  },
+  {
+   "analyst": "Sentiment",
+   "analyst_zh": "情绪",
+   "lean": "Neutral",
+   "en": "Mixed score of 5/10 — buybacks bullish, but Jefferies downgrade stings.",
+   "zh": "情绪评分5/10，回购利好但杰富瑞下调评级。"
+  },
+  {
+   "analyst": "News",
+   "analyst_zh": "新闻",
+   "lean": "Bearish",
+   "en": "Job cuts in Siri and Vision Pro teams raise AI execution doubts.",
+   "zh": "Siri和Vision Pro团队裁员引发AI执行质疑。"
+  },
+  {
+   "analyst": "Technicals",
+   "analyst_zh": "技术面",
+   "lean": "Neutral",
+   "en": "Price below 50-day SMA, MACD negative, RSI neutral at 47.",
+   "zh": "股价低于50日均线，MACD为负，RSI中性47。"
+  }
+ ],
+ "split": {
+  "bull_en": "$128B net income, $108B free cash flow, 48.7% gross margins.",
+  "bull_zh": "1280亿净利润，1080亿自由现金流，毛利率48.7%。",
+  "bear_en": "Job cuts in Siri and Vision Pro teams raise AI execution doubts.",
+  "bear_zh": "Siri和Vision Pro团队裁员引发AI执行质疑。",
+  "pivot_en": "The bull says Apple's AI pivot is a repeat of the AirPods story — dismissed initially, then a $20B hit. The bear counters that cutting 200 Siri jobs is a retreat, not a pivot, and a 35x P/E on 3% revenue growth needs proof.",
+  "pivot_zh": "多头认为苹果AI转型将重演AirPods故事——先被质疑，后成200亿美元业务。空头反驳称裁员200人是撤退而非转型，35倍PE对应3%营收增长需要证据。"
+ },
+ "status": "predicted",
+ "recorded_at": "2026-08-23T21:30:12-07:00",
+ "recorded_in": "hydra (private)",
+ "preregistered": true
+}

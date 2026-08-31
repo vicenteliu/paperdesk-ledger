@@ -1,0 +1,57 @@
+{
+ "id": "2026-08-06-MSFT",
+ "ticker": "MSFT",
+ "run_date": "2026-08-06",
+ "data_through": "2026-08-06",
+ "data_through_derived": true,
+ "data_through_note": "由 yfinance 反查 run_date 当天或之前最后一个交易日;desk 不报自己的数据截止日,所以这是派生值,不是它一定用了这根 K 的证明",
+ "run_date_was_market_open": true,
+ "rating": "Hold",
+ "verdict": {
+  "rating": "Hold",
+  "why_en": "The framework landed on Hold—the AI and cloud thesis remains intact, but RSI at 74.5 and the stock above the upper Bollinger Band mean near-term caution outweighs long-term conviction.",
+  "why_zh": "框架给出持有——AI与云业务逻辑不变，但RSI 74.5及股价突破布林上轨表明短期风险大于长期信心。"
+ },
+ "stances": [
+  {
+   "analyst": "Fundamentals",
+   "analyst_zh": "基本面",
+   "lean": "Bullish",
+   "en": "Azure expansion and $24.1B OpenAI revenue confirm secular AI demand.",
+   "zh": "Azure扩张与240亿OpenAI收入确认AI长期需求。"
+  },
+  {
+   "analyst": "Sentiment",
+   "analyst_zh": "情绪",
+   "lean": "Bullish",
+   "en": "Social media score of 8/10 reflects overwhelmingly positive AI narrative.",
+   "zh": "社交媒体评分8/10反映AI叙事积极。"
+  },
+  {
+   "analyst": "News",
+   "analyst_zh": "新闻",
+   "lean": "Bullish",
+   "en": "AI revenue tied to OpenAI and new cybersecurity model drive momentum.",
+   "zh": "AI营收与网络安全模型推动动能。"
+  },
+  {
+   "analyst": "Technicals",
+   "analyst_zh": "技术面",
+   "lean": "Bearish",
+   "en": "RSI at 74.5 and price 12% above upper Bollinger Band signal overbought.",
+   "zh": "RSI 74.5突破布林上轨显示超买。"
+  }
+ ],
+ "split": {
+  "bull_en": "Azure expansion and $24.1B OpenAI revenue confirm secular AI demand.",
+  "bull_zh": "Azure扩张与240亿OpenAI收入确认AI长期需求。",
+  "bear_en": "RSI at 74.5 and price 12% above upper Bollinger Band signal overbought.",
+  "bear_zh": "RSI 74.5突破布林上轨显示超买。",
+  "pivot_en": "Both sides agree the AI thesis is real, but the bull sees the 24.6% July surge as momentum confirmation, while the bear sees an overbought stock at RSI 74.5 that already priced in the good news.",
+  "pivot_zh": "双方都认同AI叙事真实，但多头认为24.6%的涨幅是动量确认，空头则认为RSI 74.5表明利好已被充分定价。"
+ },
+ "status": "predicted",
+ "recorded_at": "2026-08-06T22:59:51-07:00",
+ "recorded_in": "hydra (private)",
+ "preregistered": true
+}

@@ -1,0 +1,58 @@
+{
+ "id": "2026-08-13-SMCI",
+ "ticker": "SMCI",
+ "run_date": "2026-08-13",
+ "data_through": "2026-08-13",
+ "data_through_derived": true,
+ "data_through_note": "由 yfinance 反查 run_date 当天或之前最后一个交易日;desk 不报自己的数据截止日,所以这是派生值,不是它一定用了这根 K 的证明",
+ "run_date_was_market_open": true,
+ "rating": "Hold",
+ "verdict": {
+  "rating": "Hold",
+  "why_en": "The framework landed on Hold. The $60B backlog and 7.28x forward P/E are real — but so are negative FCF, 5.7% margins, an unresolved export probe, and overbought technicals. The evidence is balanced, so the desk holds.",
+  "why_zh": "框架给出Hold评级：600亿积压和7.28倍前瞻PE真实有力，但负自由现金流、5.7%利润率、未解的出口调查和超买技术信号同样真实。证据平衡，框架不做方向押注。"
+ },
+ "stances": [
+  {
+   "analyst": "Fundamentals",
+   "analyst_zh": "基本面",
+   "lean": "Bullish",
+   "en": "44% revenue CAGR and a $60B backlog scream AI dominance.",
+   "zh": "44%收入复合增速+600亿积压订单，AI统治力毋庸置疑。"
+  },
+  {
+   "analyst": "Sentiment",
+   "analyst_zh": "情绪",
+   "lean": "Bullish",
+   "en": "News flow is overwhelmingly positive post-blockbuster earnings.",
+   "zh": "财报超预期后新闻面极度乐观。"
+  },
+  {
+   "analyst": "News",
+   "analyst_zh": "新闻",
+   "lean": "Bearish",
+   "en": "Export-control probe and negative cash flow are unshaken risks.",
+   "zh": "出口管制调查和负现金流风险尚未解除。"
+  },
+  {
+   "analyst": "Technicals",
+   "analyst_zh": "技术面",
+   "lean": "Neutral",
+   "en": "Price above all MAs, but RSI at 70 and above the upper Bollinger Band.",
+   "zh": "价格站上所有均线，但RSI逼近70且已突破布林带上轨。"
+  }
+ ],
+ "split": {
+  "bull_en": "44% revenue CAGR and a $60B backlog scream AI dominance.",
+  "bull_zh": "44%收入复合增速+600亿积压订单，AI统治力毋庸置疑。",
+  "bear_en": "Export-control probe and negative cash flow are unshaken risks.",
+  "bear_zh": "出口管制调查和负现金流风险尚未解除。",
+  "pivot_en": "The bull sees the $60B backlog and 7.28x forward P/E as proof of a cheap AI leader. The bear sees negative FCF, 5.7% margins, and a stock up 101% YTD — calling it a frothy hardware middleman.",
+  "pivot_zh": "多头认为600亿积压+前瞻PE仅7.28倍证明SMCI是被低估的AI龙头；空头指出自由现金流为负、利润率仅5.7%、年内已涨101%，认为这只是泡沫化的硬件中间商。"
+ },
+ "status": "predicted",
+ "recorded_at": "2026-08-14T16:20:12-07:00",
+ "recorded_in": "hydra (private)",
+ "preregistered": false,
+ "preregistration_note": "记录于 2026-08-14,晚于 run_date 2026-08-13。外部读者无法排除它是在结果出来之后写下的 —— **这条不算预注册**。"
+}

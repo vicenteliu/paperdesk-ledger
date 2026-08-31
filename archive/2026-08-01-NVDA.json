@@ -1,0 +1,57 @@
+{
+ "id": "2026-08-01-NVDA",
+ "ticker": "NVDA",
+ "run_date": "2026-08-01",
+ "data_through": "2026-07-31",
+ "data_through_derived": true,
+ "data_through_note": "由 yfinance 反查 run_date 当天或之前最后一个交易日;desk 不报自己的数据截止日,所以这是派生值,不是它一定用了这根 K 的证明",
+ "run_date_was_market_open": false,
+ "rating": "Buy",
+ "verdict": {
+  "rating": "Buy",
+  "why_en": "The framework landed on Buy, because a PEG ratio of 0.55, 63% net margins, and $46 billion in free cash flow are exceptional — but the bear’s technical and macro warnings never met the bull case on timing.",
+  "why_zh": "框架给出买入评级，因为0.55的PEG、63%净利率和460亿美元自由现金流极为罕见——但空头提出的技术和宏观风险,两边在时间点上始终没对上。"
+ },
+ "stances": [
+  {
+   "analyst": "Fundamentals",
+   "analyst_zh": "基本面",
+   "lean": "Bullish",
+   "en": "PEG of 0.55 with 114% ROE and 63% net margins is exceptionally rare.",
+   "zh": "PEG仅0.55，ROE达114%，净利率63%，极为罕见。"
+  },
+  {
+   "analyst": "Sentiment",
+   "analyst_zh": "情绪",
+   "lean": "Neutral",
+   "en": "Cautious news and silent Reddit offset bullish retail chatter.",
+   "zh": "谨慎的新闻和沉默的Reddit抵消了散户的乐观情绪。"
+  },
+  {
+   "analyst": "News",
+   "analyst_zh": "新闻",
+   "lean": "Bearish",
+   "en": "CEO warns power bottlenecks may cap AI infrastructure growth.",
+   "zh": "CEO警告电力瓶颈可能限制AI基础设施增长。"
+  },
+  {
+   "analyst": "Technicals",
+   "analyst_zh": "技术面",
+   "lean": "Neutral",
+   "en": "Below the 50 SMA but above the 200 SMA — a conflicted trend.",
+   "zh": "在50均线之下，200均线之上——趋势矛盾。"
+  }
+ ],
+ "split": {
+  "bull_en": "PEG of 0.55 with 114% ROE and 63% net margins is exceptionally rare.",
+  "bull_zh": "PEG仅0.55，ROE达114%，净利率63%，极为罕见。",
+  "bear_en": "CEO warns power bottlenecks may cap AI infrastructure growth.",
+  "bear_zh": "CEO警告电力瓶颈可能限制AI基础设施增长。",
+  "pivot_en": "The bull sees the PEG of 0.55 and 63% margins as proof NVDA is a cheap AI monopoly. The bear counters that CEO Huang's power-constraint warning, a bearish MACD, and a 2.21 beta reveal structural risks the market has not priced in. The core question: are these growing pains or a ceiling?",
+  "pivot_zh": "多头认为0.55的PEG和63%利润率证明NVDA是被低估的AI垄断者。空头指出CEO的电力瓶颈警告、看跌MACD和2.21贝塔揭示市场未定价的结构性风险。核心问题：这是成长阵痛还是天花板？"
+ },
+ "status": "predicted",
+ "recorded_at": "2026-08-01T21:58:02-07:00",
+ "recorded_in": "hydra (private)",
+ "preregistered": true
+}

@@ -1,0 +1,58 @@
+{
+ "id": "2026-08-18-NVDA",
+ "ticker": "NVDA",
+ "run_date": "2026-08-18",
+ "data_through": "2026-08-18",
+ "data_through_derived": true,
+ "data_through_note": "由 yfinance 反查 run_date 当天或之前最后一个交易日;desk 不报自己的数据截止日,所以这是派生值,不是它一定用了这根 K 的证明",
+ "run_date_was_market_open": true,
+ "rating": "Overweight",
+ "verdict": {
+  "rating": "Overweight",
+  "why_en": "The framework landed on Overweight because the bull's execution evidence outweighs the bear's macro warnings: $253B in revenue, a PEG of 0.62, and a golden cross confirm the trend, but elevated bond yields and rising competition temper conviction to a cautious constructive stance rather than an outright buy.",
+  "why_zh": "研究框架得出超配结论：多方2530亿营收和0.62倍PEG的执行证据压过空方宏观警告，但债券收益率高企与竞争加剧使结论保持审慎——是超配而非直接买入。"
+ },
+ "stances": [
+  {
+   "analyst": "Fundamentals",
+   "analyst_zh": "基本面",
+   "lean": "Bullish",
+   "en": "PEG of 0.62 and $253B revenue make valuation a bargain.",
+   "zh": "0.62倍PEG和2530亿美元营收——估值就是便宜。"
+  },
+  {
+   "analyst": "Sentiment",
+   "analyst_zh": "情绪",
+   "lean": "Neutral",
+   "en": "Retail cheers earnings; macro bond yields spook institutions.",
+   "zh": "散户狂欢等财报，机构被债券收益率吓退。"
+  },
+  {
+   "analyst": "News",
+   "analyst_zh": "新闻",
+   "lean": "Bearish",
+   "en": "Broadcom's $100B AI forecast and bond sell-offs pressure pricing.",
+   "zh": "博通千亿AI营收预测与债券抛售双重施压。"
+  },
+  {
+   "analyst": "Technicals",
+   "analyst_zh": "技术面",
+   "lean": "Bullish",
+   "en": "Golden cross intact, RSI 56.6 — trend has room to run.",
+   "zh": "金叉成型，RSI仅56.6——趋势远未过热。"
+  }
+ ],
+ "split": {
+  "bull_en": "PEG of 0.62 and $253B revenue make valuation a bargain.",
+  "bull_zh": "0.62倍PEG和2530亿美元营收——估值就是便宜。",
+  "bear_en": "Broadcom's $100B AI forecast and bond sell-offs pressure pricing.",
+  "bear_zh": "博通千亿AI营收预测与债券抛售双重施压。",
+  "pivot_en": "The bull says NVDA's $253B in revenue and 63% margins are verified execution, not a story. The bear counters that a 2.215 beta and a $5.32 trillion market cap leave no room for error when the 10-year yield is at 4.72% and Broadcom is chasing hard.",
+  "pivot_zh": "多方认为2530亿营收和63%利润率是已验证的执行力而非故事；空方反驳说2.215的贝塔和5.32万亿市值在10年期收益率4.72%且博通追赶的情况下容错空间为零。"
+ },
+ "status": "predicted",
+ "recorded_at": "2026-08-19T11:39:52-07:00",
+ "recorded_in": "hydra (private)",
+ "preregistered": false,
+ "preregistration_note": "记录于 2026-08-19,晚于 run_date 2026-08-18。外部读者无法排除它是在结果出来之后写下的 —— **这条不算预注册**。"
+}

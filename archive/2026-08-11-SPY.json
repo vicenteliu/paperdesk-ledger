@@ -1,0 +1,58 @@
+{
+ "id": "2026-08-11-SPY",
+ "ticker": "SPY",
+ "run_date": "2026-08-11",
+ "data_through": "2026-08-11",
+ "data_through_derived": true,
+ "data_through_note": "由 yfinance 反查 run_date 当天或之前最后一个交易日;desk 不报自己的数据截止日,所以这是派生值,不是它一定用了这根 K 的证明",
+ "run_date_was_market_open": true,
+ "rating": "Overweight",
+ "verdict": {
+  "rating": "Overweight",
+  "why_en": "The framework landed on Overweight: the technical uptrend and institutional accumulation are compelling, but elevated P/E and CAPE ratios warrant measured exposure rather than full conviction.",
+  "why_zh": "分析框架给出超配评级：技术性上升趋势和机构资金流入具有说服力，但偏高的市盈率和CAPE比率要求渐进式暴露而非全仓押注。"
+ },
+ "stances": [
+  {
+   "analyst": "Fundamentals",
+   "analyst_zh": "基本面",
+   "lean": "Bearish",
+   "en": "P/E of 25.96 and CAPE of 32.7 signal overvaluation.",
+   "zh": "市盈率25.96、CAPE 32.7，估值偏高。"
+  },
+  {
+   "analyst": "Sentiment",
+   "analyst_zh": "情绪",
+   "lean": "Neutral",
+   "en": "Institutional caution on fees, retail disengaged, no catalyst.",
+   "zh": "机构关注费率，散户冷淡，缺乏催化。"
+  },
+  {
+   "analyst": "News",
+   "analyst_zh": "新闻",
+   "lean": "Neutral",
+   "en": "Stable CPI and labor data offset by no-rate-cut odds at 86%.",
+   "zh": "CPI和就业稳定，但降息概率仅14%。"
+  },
+  {
+   "analyst": "Technicals",
+   "analyst_zh": "技术面",
+   "lean": "Bullish",
+   "en": "Above all key MAs, RSI 63, MACD bullish — uptrend intact.",
+   "zh": "站上所有均线，RSI 63，MACD多头——趋势完好。"
+  }
+ ],
+ "split": {
+  "bull_en": "Above all key MAs, RSI 63, MACD bullish — uptrend intact.",
+  "bull_zh": "站上所有均线，RSI 63，MACD多头——趋势完好。",
+  "bear_en": "P/E of 25.96 and CAPE of 32.7 signal overvaluation.",
+  "bear_zh": "市盈率25.96、CAPE 32.7，估值偏高。",
+  "pivot_en": "The bull says momentum and institutional flows of $300B+ YTD trump everything — fees are noise, RSI at 63 has room to run. The bear counters that a P/E of 25.96 and a CAPE of 32.7 are peak-like valuations, and trading near the upper Bollinger Band at $780 is a setup for a reversal, not a breakout.",
+  "pivot_zh": "多头认为动能和年内超3000亿美元的机构流入压倒一切——费率是噪音，RSI 63还有上行空间。空头反驳说25.96倍市盈率和32.7倍CAPE已是顶部水平的估值，且价格逼近布林带上轨780美元，这是反转的伏笔而非突破的信号。"
+ },
+ "status": "predicted",
+ "recorded_at": "2026-08-16T03:36:52-07:00",
+ "recorded_in": "hydra (private)",
+ "preregistered": false,
+ "preregistration_note": "记录于 2026-08-16,晚于 run_date 2026-08-11。外部读者无法排除它是在结果出来之后写下的 —— **这条不算预注册**。"
+}

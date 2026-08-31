@@ -1,0 +1,58 @@
+{
+ "id": "2026-08-04-AAPL",
+ "ticker": "AAPL",
+ "run_date": "2026-08-04",
+ "data_through": "2026-08-04",
+ "data_through_derived": true,
+ "data_through_note": "由 yfinance 反查 run_date 当天或之前最后一个交易日;desk 不报自己的数据截止日,所以这是派生值,不是它一定用了这根 K 的证明",
+ "run_date_was_market_open": true,
+ "rating": "Hold",
+ "verdict": {
+  "rating": "Hold",
+  "why_en": "The framework landed on Hold, because the bull's long-term structural case is strong but the bear's near-term headwinds are equally real.",
+  "why_zh": "该框架给出持有评级，因多方长期结构性优势与空方短期逆势力量相当。"
+ },
+ "stances": [
+  {
+   "analyst": "Fundamentals",
+   "analyst_zh": "基本面",
+   "lean": "Bearish",
+   "en": "Gross margins contracted to 44.1% and the 29x P/E leaves no room for error.",
+   "zh": "毛利率降至44.1%，29倍市盈率容错空间有限。"
+  },
+  {
+   "analyst": "Sentiment",
+   "analyst_zh": "情绪",
+   "lean": "Neutral",
+   "en": "Score of 5 out of 10 with buy-the-dip calls balanced by downgrades.",
+   "zh": "评分5/10，买入建议与降级信号并存。"
+  },
+  {
+   "analyst": "News",
+   "analyst_zh": "新闻",
+   "lean": "Bullish",
+   "en": "India crossed 10 billion in sales and iPhone launch momentum is building.",
+   "zh": "印度销售破百亿美元，iPhone发布蓄势待发。"
+  },
+  {
+   "analyst": "Technicals",
+   "analyst_zh": "技术面",
+   "lean": "Bearish",
+   "en": "50 SMA is resistance and MACD momentum remains negative.",
+   "zh": "50日均线构成阻力，MACD动能仍偏负。"
+  }
+ ],
+ "split": {
+  "bull_en": "India crossed 10 billion in sales and iPhone launch momentum is building.",
+  "bull_zh": "印度销售破百亿美元，iPhone发布蓄势待发。",
+  "bear_en": "Gross margins contracted to 44.1% and the 29x P/E leaves no room for error.",
+  "bear_zh": "毛利率降至44.1%，29倍市盈率容错空间有限。",
+  "pivot_en": "The bull sees the CEO transition as a buying opportunity, citing India's 10 billion milestone and pricing power. The bear counters that the unplanned handoff, margin compression, and a bearish MACD signal deeper risks.",
+  "pivot_zh": "多方认为CEO更迭是买入机会，援引印度100亿美元里程碑和定价权。空方反驳称仓促交接、毛利率下降和MACD看跌信号预示更深风险。"
+ },
+ "status": "predicted",
+ "recorded_at": "2026-08-05T14:15:19-07:00",
+ "recorded_in": "hydra (private)",
+ "preregistered": false,
+ "preregistration_note": "记录于 2026-08-05,晚于 run_date 2026-08-04。外部读者无法排除它是在结果出来之后写下的 —— **这条不算预注册**。"
+}
