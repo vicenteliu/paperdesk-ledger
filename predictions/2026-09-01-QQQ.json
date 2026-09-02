@@ -1,0 +1,58 @@
+{
+ "id": "2026-09-01-QQQ",
+ "ticker": "QQQ",
+ "run_date": "2026-09-01",
+ "data_through": "2026-09-01",
+ "data_through_derived": true,
+ "data_through_note": "由 yfinance 反查 run_date 当天或之前最后一个交易日;desk 不报自己的数据截止日,所以这是派生值,不是它一定用了这根 K 的证明",
+ "run_date_was_market_open": true,
+ "rating": "Overweight",
+ "verdict": {
+  "rating": "Overweight",
+  "why_en": "The desk landed on Overweight, because the structural long-term uptrend confirmed by the 200-day SMA and secular tech drivers outweigh near-term yield risks and bearish sentiment.",
+  "why_zh": "投研框架给出超配评级，200日均线确认的长期上升趋势和科技驱动因素，压倒了短期收益率风险和悲观情绪。"
+ },
+ "stances": [
+  {
+   "analyst": "Fundamentals",
+   "analyst_zh": "基本面",
+   "lean": "Bullish",
+   "en": "Strong balance sheets at Apple and Microsoft provide resilience through yield shifts.",
+   "zh": "苹果微软强劲资产负债表提供抗收益率韧性。"
+  },
+  {
+   "analyst": "Sentiment",
+   "analyst_zh": "情绪",
+   "lean": "Bearish",
+   "en": "Score of 2.5 out of 10 signals broad pessimism across news and social media.",
+   "zh": "情绪评分2.5显示各大来源普遍悲观。"
+  },
+  {
+   "analyst": "News",
+   "analyst_zh": "新闻",
+   "lean": "Bearish",
+   "en": "Headlines focus on tech declines pressured by rising yields and oil prices.",
+   "zh": "头条聚焦科技股受美债收益率和油价打压。"
+  },
+  {
+   "analyst": "Technicals",
+   "analyst_zh": "技术面",
+   "lean": "Neutral",
+   "en": "MACD histogram negative at -0.94 but 10 EMA still above 50 SMA.",
+   "zh": "MACD柱状图为负但10EMA仍高于50SMA信号混杂。"
+  }
+ ],
+ "split": {
+  "bull_en": "Strong balance sheets at Apple and Microsoft provide resilience through yield shifts.",
+  "bull_zh": "苹果微软强劲资产负债表提供抗收益率韧性。",
+  "bear_en": "Score of 2.5 out of 10 signals broad pessimism across news and social media.",
+  "bear_zh": "情绪评分2.5显示各大来源普遍悲观。",
+  "pivot_en": "The bull sees QQQ's quick rebound from the late-July low of 661.73 as proof the volatility is cyclical. The bear counters that rising Treasury yields are compressing growth-stock valuations and the MACD histogram signals momentum is shifting, not pausing.",
+  "pivot_zh": "牛市观点认为QQQ从七月低点661.73快速反弹证明波动是周期性的。熊市反驳称国债收益率上升压缩成长股估值，MACD柱状图为负显示动能正在转变而非暂停。"
+ },
+ "status": "predicted",
+ "recorded_at": null,
+ "recorded_in": "hydra (private)",
+ "preregistered": null,
+ "preregistration_note": "没有提交记录,无法判断"
+}
