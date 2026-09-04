@@ -1,0 +1,58 @@
+{
+ "id": "2026-09-03-SPCX",
+ "ticker": "SPCX",
+ "run_date": "2026-09-03",
+ "data_through": "2026-09-03",
+ "data_through_derived": true,
+ "data_through_note": "由 yfinance 反查 run_date 当天或之前最后一个交易日;desk 不报自己的数据截止日,所以这是派生值,不是它一定用了这根 K 的证明",
+ "run_date_was_market_open": true,
+ "rating": "Underweight",
+ "verdict": {
+  "rating": "Underweight",
+  "why_en": "The desk landed on Underweight. SpaceX's negative operating margins, $15.3 billion quarterly cash burn, and 93 times forward earnings outweigh the growth story — even with Starship and Starlink's trillion-dollar potential.",
+  "why_zh": "研究框架给出低配评级：负运营利润率、季度烧钱153亿、93倍远期市盈率——这些基本面压力盖过了星辰大海的叙事。"
+ },
+ "stances": [
+  {
+   "analyst": "Fundamentals",
+   "analyst_zh": "基本面",
+   "lean": "Bearish",
+   "en": "Negative margins and $8.9 billion losses strain the balance sheet",
+   "zh": "负利润率与89亿亏损令资产负债表承压"
+  },
+  {
+   "analyst": "Sentiment",
+   "analyst_zh": "情绪",
+   "lean": "Bullish",
+   "en": "Analysts see 85% upside and retail is overwhelmingly bullish",
+   "zh": "分析师看涨85%，散户情绪极度乐观"
+  },
+  {
+   "analyst": "News",
+   "analyst_zh": "新闻",
+   "lean": "Bullish",
+   "en": "Starship Test 14 and market cap milestones drive near-term momentum",
+   "zh": "星舰14号测试与市值里程碑推动短期动能"
+  },
+  {
+   "analyst": "Technicals",
+   "analyst_zh": "技术面",
+   "lean": "Bullish",
+   "en": "Price above key moving averages with positive MACD signals",
+   "zh": "股价高于关键均线，MACD为正值"
+  }
+ ],
+ "split": {
+  "bull_en": "Analysts see 85% upside and retail is overwhelmingly bullish",
+  "bull_zh": "分析师看涨85%，散户情绪极度乐观",
+  "bear_en": "Negative margins and $8.9 billion losses strain the balance sheet",
+  "bear_zh": "负利润率与89亿亏损令资产负债表承压",
+  "pivot_en": "The bull calls SpaceX's $8.9 billion loss strategic reinvestment into trillion-dollar markets, pointing to Amazon's early playbook. The bear counters that negative operating margins and $15.3 billion in negative free cash flow prove the core business simply cannot generate sustainable profits.",
+  "pivot_zh": "多头认为89亿亏损是押注万亿市场的战略投入，类比早期亚马逊。空头反驳：负运营利润率与153亿负自由现金流证明核心业务根本赚不到钱。"
+ },
+ "status": "predicted",
+ "recorded_at": null,
+ "recorded_in": "hydra (private)",
+ "preregistered": null,
+ "preregistration_note": "没有提交记录,无法判断"
+}
