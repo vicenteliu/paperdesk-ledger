@@ -1,0 +1,58 @@
+{
+ "id": "2026-09-08-NVDA",
+ "ticker": "NVDA",
+ "run_date": "2026-09-08",
+ "data_through": "2026-09-08",
+ "data_through_derived": true,
+ "data_through_note": "由 yfinance 反查 run_date 当天或之前最后一个交易日;desk 不报自己的数据截止日,所以这是派生值,不是它一定用了这根 K 的证明",
+ "run_date_was_market_open": true,
+ "rating": "Overweight",
+ "verdict": {
+  "rating": "Overweight",
+  "why_en": "The framework landed on Overweight — constructive on NVDA's AI dominance and momentum, but measured against real cyclical, competitive, and macro risks that prevent an outright Buy.",
+  "why_zh": "框架给出超配评级——看好NVDA的AI主导地位和动能，但面对真实的周期、竞争和宏观风险，不做直接买入。"
+ },
+ "stances": [
+  {
+   "analyst": "Fundamentals",
+   "analyst_zh": "基本面",
+   "lean": "Bullish",
+   "en": "Revenue doubled to 96 billion with a PEG of 0.59 — growth is still underpriced.",
+   "zh": "营收翻倍至960亿，PEG仅0.59——增长仍被低估。"
+  },
+  {
+   "analyst": "Sentiment",
+   "analyst_zh": "情绪",
+   "lean": "Bullish",
+   "en": "Retail is 40% bullish and the September 10 catalyst is on deck.",
+   "zh": "散户40%看多，9月10日催化事件值得期待。"
+  },
+  {
+   "analyst": "News",
+   "analyst_zh": "新闻",
+   "lean": "Neutral",
+   "en": "Mistral investment helps but rising yields and useful yield concerns linger.",
+   "zh": "投资Mistral利好但收益率和效率担忧仍在。"
+  },
+  {
+   "analyst": "Technicals",
+   "analyst_zh": "技术面",
+   "lean": "Bullish",
+   "en": "Golden cross confirmed with MACD rising — institutional money is still flowing in.",
+   "zh": "金叉确认，MACD上升——机构资金仍在流入。"
+  }
+ ],
+ "split": {
+  "bull_en": "Revenue doubled to 96 billion with a PEG of 0.59 — growth is still underpriced.",
+  "bull_zh": "营收翻倍至960亿，PEG仅0.59——增长仍被低估。",
+  "bear_en": "",
+  "bear_zh": "",
+  "pivot_en": "The bull sees 80% data center GPU share and a PEG of 0.59 as proof the market is underpricing AI's runway. The bear counters that Microsoft's useful yield pivot signals an ROI reckoning, and AMD plus custom chips will erode pricing power.",
+  "pivot_zh": "多头认为80%GPU份额和0.59的PEG证明市场低估了AI跑道；空头指出微软的实用效率转向预示着AI回报率清算，AMD和定制芯片将侵蚀定价权。"
+ },
+ "status": "predicted",
+ "recorded_at": null,
+ "recorded_in": "hydra (private)",
+ "preregistered": null,
+ "preregistration_note": "没有提交记录,无法判断"
+}
