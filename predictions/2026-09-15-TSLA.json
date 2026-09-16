@@ -1,0 +1,8 @@
+{
+ "id": "2026-09-15-TSLA",
+ "ticker": "TSLA",
+ "run_date": "2026-09-15",
+ "status": "no-prediction",
+ "reason": "- 18:41:41 ✗ 失败 rc=1:broll_preflight.py(全量输出 /Users/vicenteliu/Workspace/project_hydra/projects/borrow-my-brain/shows/paperdesk/_last_run_logs/broll_preflight.log)",
+ "note": "排期表里有这一档,但夜跑没有产出预测。记在这里是为了让「它多经常跑挂」也成为公开数据 —— 只有成功的夜晚有记录就是选择性披露。"
+}
