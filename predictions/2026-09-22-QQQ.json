@@ -1,0 +1,58 @@
+{
+ "id": "2026-09-22-QQQ",
+ "ticker": "QQQ",
+ "run_date": "2026-09-22",
+ "data_through": "2026-09-22",
+ "data_through_derived": true,
+ "data_through_note": "由 yfinance 反查 run_date 当天或之前最后一个交易日;desk 不报自己的数据截止日,所以这是派生值,不是它一定用了这根 K 的证明",
+ "run_date_was_market_open": true,
+ "rating": "Overweight",
+ "verdict": {
+  "rating": "Overweight",
+  "why_en": "The desk's framework landed on Overweight, concluding that structural AI and cloud growth outweigh concentration and valuation concerns — while the conservative analyst's cautions demand a disciplined posture.",
+  "why_zh": "研究台框架给出超配评级，认为AI与云计算的长期增长盖过集中度与估值风险，但需以纪律性姿态执行。"
+ },
+ "stances": [
+  {
+   "analyst": "Fundamentals",
+   "analyst_zh": "基本面",
+   "lean": "Bullish",
+   "en": "AI and cloud cycles remain in their early innings.",
+   "zh": "AI与云计算周期仍处早期阶段。"
+  },
+  {
+   "analyst": "Sentiment",
+   "analyst_zh": "情绪",
+   "lean": "Bullish",
+   "en": "Retail traders are optimistic but institutional news stays cautious.",
+   "zh": "散户情绪乐观，但机构新闻保持谨慎。"
+  },
+  {
+   "analyst": "News",
+   "analyst_zh": "新闻",
+   "lean": "Neutral",
+   "en": "Record highs and BlackRock's new ETF create a mixed picture.",
+   "zh": "创新高与贝莱德新ETF形成喜忧参半的局面。"
+  },
+  {
+   "analyst": "Technicals",
+   "analyst_zh": "技术面",
+   "lean": "Bullish",
+   "en": "Price is above key moving averages with bullish momentum.",
+   "zh": "价格位于关键均线上方，动能偏多。"
+  }
+ ],
+ "split": {
+  "bull_en": "AI and cloud cycles remain in their early innings.",
+  "bull_zh": "AI与云计算周期仍处早期阶段。",
+  "bear_en": "",
+  "bear_zh": "",
+  "pivot_en": "The bull sees QQQ's concentration in mega-cap tech as a structural advantage during secular AI growth. The bear counters that the same concentration is a single-point failure risk, with valuations already pricing in perfection.",
+  "pivot_zh": "多头认为QQQ集中持有科技巨头是结构性优势，乘AI东风；空头则警告同样的集中持仓是单点失败风险，估值已透支完美预期。"
+ },
+ "status": "predicted",
+ "recorded_at": null,
+ "recorded_in": "hydra (private)",
+ "preregistered": null,
+ "preregistration_note": "没有提交记录,无法判断"
+}
