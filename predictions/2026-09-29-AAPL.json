@@ -1,0 +1,58 @@
+{
+ "id": "2026-09-29-AAPL",
+ "ticker": "AAPL",
+ "run_date": "2026-09-29",
+ "data_through": "2026-09-29",
+ "data_through_derived": true,
+ "data_through_note": "由 yfinance 反查 run_date 当天或之前最后一个交易日;desk 不报自己的数据截止日,所以这是派生值,不是它一定用了这根 K 的证明",
+ "run_date_was_market_open": true,
+ "rating": "Hold",
+ "verdict": {
+  "rating": "Hold",
+  "why_en": "The framework landed on Hold, because technical strength and cash flow support maintaining exposure, but a 37x P/E on 6% revenue growth offers no margin of safety for adding capital at current levels.",
+  "why_zh": "框架给出持有评级：技术面与现金流支撑持仓，但37倍市盈率对应6%营收增长无安全边际，不适宜增仓。"
+ },
+ "stances": [
+  {
+   "analyst": "Fundamentals",
+   "analyst_zh": "基本面",
+   "lean": "Neutral",
+   "en": "Ecosystem moat and cash flow are unmatched, but 37x P/E for 6% growth is a stretch.",
+   "zh": "生态与现金流强，但37倍PE买6%增长太贵。"
+  },
+  {
+   "analyst": "Sentiment",
+   "analyst_zh": "情绪",
+   "lean": "Bullish",
+   "en": "Retail is 33% bullish versus 3% bearish, but institutional news is absent.",
+   "zh": "散户多空比11比1偏多，但机构新闻缺失。"
+  },
+  {
+   "analyst": "News",
+   "analyst_zh": "新闻",
+   "lean": "Neutral",
+   "en": "Zero headlines last week — the market waits for a catalyst.",
+   "zh": "上周零头条，市场等待催化剂。"
+  },
+  {
+   "analyst": "Technicals",
+   "analyst_zh": "技术面",
+   "lean": "Bullish",
+   "en": "Above both moving averages, MACD bullish, RSI has room to run.",
+   "zh": "站上均线，MACD金叉，RSI仍有空间。"
+  }
+ ],
+ "split": {
+  "bull_en": "Retail is 33% bullish versus 3% bearish, but institutional news is absent.",
+  "bull_zh": "散户多空比11比1偏多，但机构新闻缺失。",
+  "bear_en": "",
+  "bear_zh": "",
+  "pivot_en": "The bull sees Apple's $107B free cash flow, 32% margins, and Services lock-in as justifying the 37x multiple. The bear sees 6% revenue growth at 34x forward earnings with 78% debt-to-equity as having no safety margin. The split: fortress or stretched premium?",
+  "pivot_zh": "多头认为1070亿现金流和32%利润率支撑估值；空头看6%营收增长、34倍PE和78%负债率毫无缓冲。分歧：堡垒还是溢价过高？"
+ },
+ "status": "predicted",
+ "recorded_at": null,
+ "recorded_in": "hydra (private)",
+ "preregistered": null,
+ "preregistration_note": "没有提交记录,无法判断"
+}
